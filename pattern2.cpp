@@ -27,7 +27,6 @@ int main() {
         if(i>=n && i<2*n){
         start=end;
         end+=n-1;}
-        cout<<endl;
     }
     for(int i=0;i<row;i++)
     {
