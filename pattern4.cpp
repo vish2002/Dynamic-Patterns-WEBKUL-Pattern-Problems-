@@ -5,7 +5,7 @@ int main() {
     int n;
     cout<<"Enter the value of n";
     cin>>n;
-    int row=3*((n/2)+1);
+    int row=(2*n)+n-2;
     int col=n*3;
     vector<vector<char>>mat(row,vector<char>(col,' '));
     int i;
