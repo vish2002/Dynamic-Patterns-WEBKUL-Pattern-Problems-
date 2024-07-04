@@ -1,3 +1,20 @@
+/*
+Code Output
+
+    Enter the number 5
+    
+@                      
+@                      
+@*****                 
+@    *****             
+@        *****        @
+@            *****    @
+                 *****@
+                      @
+                      @
+                      @
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
