@@ -1,3 +1,19 @@
+/* 
+Code Output
+
+Enter any odd number5
+  *  
+ *** 
+*****
+@   @
+@   @
+@   @
+@ * @
+@***@
+*****
+
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
