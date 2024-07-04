@@ -1,3 +1,22 @@
+/*
+
+Code Output
+
+Enter any number
+3
+
+@        
+@        
+@        
+@***     
+   ***   
+     ***@
+        @
+        @
+        @
+
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
