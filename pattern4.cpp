@@ -1,3 +1,21 @@
+/*
+Code Output
+
+    Enter the value of n5
+       *       
+      ***      
+     *****     
+     @   @     
+     @   @     
+     @   @     
+*****@   @*****
+ ***       *** 
+  *         *  
+    
+
+*/
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
